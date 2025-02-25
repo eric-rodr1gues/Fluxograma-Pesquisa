@@ -56,4 +56,26 @@ Os fluxogramas são muito importantes para o desenvolvimetno de sistemas pois el
 
 ---
 ## Exemplos de fluxogramas aplicados à lógica de programação
-**Fluxograma de 
+**Fluxograma de Blocos e Fluxograma de Programação** são ótimas opções para se apicar à lógica de programação pois:
+- Oferece uma representação visual clara e intuitiva da lógica de um programa, ajudando a comreender o fluxo do código e facilitando a identificação de possíveis erros e melhrorias
+- Com o uso de símbolos padronizados, esse tipo de fluxograma simplifica processos complexos em etapas mais gerenciáveis, tornando mais fácil de seguir e implementar a lógica.
+- Possibilita a comunicação da lógica do programa de uma maneira mais eficiente. É uma ferramenta que ajuda muito na troca de informações entre membros de uma equipe.
+- Ajuda no planejamento de algoritimos, garatindo que todos os possíveis cenários e caminhos sejam considerados, resultando em código mais robusto e eficiente.
+- Durante a fase de depuração, os fluxogramas são úteis para a vizualização de onde o fluxo de controle pode ter falhado, indentificando áreas problemáticas e formulando estratégias de teste para cobrir todos os cenários possíveis.
+
+---
+## Ferramentas para criação de fluxogramas
+Existem várias ferramentas disponíveis que são capazes de criar fluxogramas, tais como:
+- Microsoft Visio;
+- Lucidchart;
+- Draw.io;
+- Gliffy;
+- Canva;
+- SmartDraw;
+
+---
+## Fluxogramas criados
+
+**Fluxograma para descobrir se o número é par ou ímpar**:
+
+![fluxograma para descobrir se o número é par ou ímpar](https://github.com/user-attachments/assets/03cf5c5f-7196-45bd-af01-5012f3ac3520)
