@@ -79,3 +79,13 @@ Existem várias ferramentas disponíveis que são capazes de criar fluxogramas, 
 **Fluxograma para descobrir se o número é par ou ímpar**:
 
 ![fluxograma para descobrir se o número é par ou ímpar](https://github.com/user-attachments/assets/03cf5c5f-7196-45bd-af01-5012f3ac3520)
+
+**Fluxograma de cadastro de usuário**:
+
+![fluxograma cadastro de usuario](https://github.com/user-attachments/assets/da6de8fa-b25d-4ec0-8d63-e4ae135872c6)
+
+A ferramenta para a criação dos fluxogramas foi o aplicativo "Flowgorithm", um aplicativo bem simples e fácil de usar, sendo bem prático para o entendimento e funcionamento.
+
+---
+## Conclusão
+Com esse trabalho, concluímos que os fluxogramas são uma ferramenta ótima, para grupos especialmente, eles facilitam a comunicação, a vizualização do processo, a indentificação de problemas, planejamentos e melhorias. é um instrumento de uso muito útil principalmente para o mercado de trabalho.
